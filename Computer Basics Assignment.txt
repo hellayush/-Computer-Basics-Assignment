@@ -1,0 +1,54 @@
+ Q1 -  What is a computer?
+ANS - A computer is like a super-fast and super-smart machine that can do lots of different tasks really quickly. It's like a brainy electronic device that can store information, process data, and perform all sorts of calculations.
+	 It uses special codes called programs to do different things, like browsing the internet, playing games, or writing documents.
+
+
+
+Q2 - What is RAM?
+ANS - 
+RAM stands for Random Access Memory. It's like a short-term memory for your computer. When your computer is running, it needs a place to store data and instructions that it's currently using. That's where RAM comes in.
+		RAM allows your computer to access data quickly, which helps it run programs smoothly. When you open a program or file, it gets loaded into RAM so the computer can access it quickly whenever needed. RAM is temporary storage, meaning it loses its contents when the computer is turned off.
+
+
+
+Q3 - Where is data stores in a computer?
+
+ANS - Hard Disk Drives (HDDs) or Solid State Drives (SSDs) for long-term storage.
+Random Access Memory (RAM) for temporary storage while the computer is running.
+Cache memory and registers for quick access by the CPU during processing.
+
+
+
+Q4  -  What is that input device used to type text and numbers on a document in the computer system?
+ANS- Keyboard.
+
+
+Q5  -  What are the output devices?
+ 
+ANS - Output devices present information processed by the computer. Examples include:
+
+Monitor: Displays visual output.
+Printer: Produces hard copies of documents.
+Speakers: Output audio.
+Headphones: Personal audio output.
+
+
+Q6 -   Which is the input device that allows a user to move the  cursor or pointer on the screen?
+
+ANS - Mouse.
+
+
+Q7 - Which language is directly understood by the computer without a translation program?
+
+ANS - Binary code / Machine level code .
+
+
+Q 8  - What are Input devices?
+
+ANS - 
+Input devices are hardware components that allow users to provide data and instructions to a computer. Here are some examples:
+
+Keyboard: Used to input text, numbers, and commands.
+Mouse: Enables pointing, clicking, and dragging actions on a graphical user interface.
+Touchscreen: Allows users to interact directly with the display by touching it.
+Trackpad: Commonly found on laptops, it functions similarly to a mouse.
